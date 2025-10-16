@@ -2,7 +2,7 @@
 
 ## Descrição  
 O **Viarelly CoreCheck** é um microSaaS desenvolvido para **estúdios e instrutoras de Pilates** que buscam mais **organização no agendamento e confirmação de aulas**.  
-O sistema automatiza o envio de lembretes, permite confirmações rápidas de presença e mantém um painel atualizado com as aulas da semana — tudo de forma simples e eficiente.
+O sistema automatiza o envio de lembretes, permite confirmações rápidas de presença e mantém um painel atualizado com as aulas da semana, tudo de forma simples e eficiente.
 
 ## Problema que Resolve  
 Estúdios de Pilates enfrentam desafios como esquecimentos, faltas não avisadas e desorganização nas agendas.  
